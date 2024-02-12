@@ -28,3 +28,4 @@ for (let i =1; i != 8;i++)
 
     //invoking a function
     isEligible();
+    console.log("We are using GIT!");
